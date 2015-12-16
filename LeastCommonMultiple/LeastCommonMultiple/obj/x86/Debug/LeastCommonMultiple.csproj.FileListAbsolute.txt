@@ -1,7 +1,0 @@
-C:\Users\Peter\Documents\MyDocs\Jobs\Code Samples\LeastCommonMultiple\LeastCommonMultiple\bin\Debug\LeastCommonMultiple.exe
-C:\Users\Peter\Documents\MyDocs\Jobs\Code Samples\LeastCommonMultiple\LeastCommonMultiple\bin\Debug\LeastCommonMultiple.pdb
-C:\Users\Peter\Documents\MyDocs\Jobs\Code Samples\LeastCommonMultiple\LeastCommonMultiple\obj\x86\Debug\LeastCommonMultiple.exe
-C:\Users\Peter\Documents\MyDocs\Jobs\Code Samples\LeastCommonMultiple\LeastCommonMultiple\obj\x86\Debug\LeastCommonMultiple.pdb
-C:\Users\Peter\Documents\MyDocs\Jobs\Code Samples\LeastCommonMultiple\LeastCommonMultiple\obj\x86\Debug\LeastCommonMultiple.csprojResolveAssemblyReference.cache
-C:\Users\Peter\Documents\MyDocs\Jobs\Code Samples\LeastCommonMultiple c#\LeastCommonMultiple\obj\x86\Debug\LeastCommonMultiple.exe
-C:\Users\Peter\Documents\MyDocs\Jobs\Code Samples\LeastCommonMultiple c#\LeastCommonMultiple\obj\x86\Debug\LeastCommonMultiple.pdb
