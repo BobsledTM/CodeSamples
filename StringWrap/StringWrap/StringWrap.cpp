@@ -3,6 +3,8 @@
 
 using namespace std;
 
+// Determines if two strings can wrap around to make the same string.
+// For example, a string 'elephant' can wrap around to make 'phantele'.
 class StringWrapper
 {
 public:
@@ -31,7 +33,7 @@ public:
 	}
 };
 
-
+// Helper for the main function that is used to print whether two strings wrap or not.
 static void printIsWrapped(string string1, string string2)
 {
 	StringWrapper stringWrapper;
