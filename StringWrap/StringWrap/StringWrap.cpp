@@ -8,7 +8,7 @@ using namespace std;
 class StringWrapper
 {
 public:
-	static bool isWrapped(string string1, string string2)
+	static bool IsWrapped(string string1, string string2)
 	{
 		int string1Length = string1.length();
 		int string2Length = string2.length();
@@ -36,9 +36,7 @@ public:
 // Helper for the main function that is used to print whether two strings wrap or not.
 static void printIsWrapped(string string1, string string2)
 {
-	StringWrapper stringWrapper;
-
-	bool isWrapped = stringWrapper.isWrapped(string1, string2);
+	bool isWrapped = StringWrapper::IsWrapped(string1, string2);
 
 	cout << string1 << " and " << string2;
 	if (!isWrapped)
