@@ -44,7 +44,15 @@ namespace LargestConcatenatedNumber
 		{
 			public uint OriginalInt { get; private set; }
 			public uint OriginalNumberOfDigits { get; private set; }
+
+			/// <summary>
+			/// Need to have a zero padded number in order to help concatenate two numbers.
+			/// </summary>
 			public ulong ZeroPaddedNum { get; private set; }
+
+			/// <summary>
+			/// Need to have a sorting number padded with 9 in order to sort properly.
+			/// </summary>
 			public ulong SortingNum { get; private set; }
 
 			public IntInfo(uint num)
@@ -57,7 +65,7 @@ namespace LargestConcatenatedNumber
 			}
 
 			/// <summary>
-			/// Pads the zero padded num with zeros on the end for the zero padded num.
+			/// Pads the zero padded num with zeros on the end.
 			/// Also pads the sorting num with 9 on the end.
 			/// </summary>
 			public void PadNums(uint numDigitsToPad)
